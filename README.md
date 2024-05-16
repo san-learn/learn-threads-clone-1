@@ -13,5 +13,5 @@ Even though this project was made with the help of video tutorials and ideas fro
 - [As a Programmer - Instagram](https://instagram.com/asaprogrammer_)
 - [As a Programmer - Buy Me a Coffe](https://buymeacoffee.com/burakorkmezz)
 - [Ikhsan Farizki - Instagram](https://www.instagram.com/ikhsan.farizki/)
-- [Ikhsan Farizki - GitHub](https://github.com/x4n-s)
 - [Ikhsan Farizki - LinkedIn](https://www.linkedin.com/in/ikhsan-farizki/)
+- [San Learn - GitHub](https://github.com/san-learn)
